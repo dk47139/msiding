@@ -1,0 +1,600 @@
+Uri: https://api-maps.yandex.ru/services/constructor/1.0/js/?um=constructor:be083a2532112217e13e0672aea9b4e3b8c19346e7e8cd86147f8f4204fc8ded&width=500&height=400&lang=ru_RU&scroll=true
+File Name: C:\Downloaded Web Sites\msiding.vercel.app\services\constructor\1.0\js\index.htm
+Content Type: application/javascript
+
+Uri: https://cdn.mysitemapgenerator.com/api/htmlsitemaps.min.js
+File Name: C:\Downloaded Web Sites\msiding.vercel.app\api\htmlsitemaps.min.js
+Content Type: text/javascript
+
+Uri: https://code.jquery.com/jquery-2.2.4.min.js
+File Name: C:\Downloaded Web Sites\msiding.vercel.app\jquery-2.2.4.min.js
+Content Type: application/javascript
+
+Uri: https://msiding.vercel.app/
+File Name: C:\Downloaded Web Sites\msiding.vercel.app\index.htm
+Content Type: text/html
+
+Uri: https://msiding.vercel.app/akril
+File Name: C:\Downloaded Web Sites\msiding.vercel.app\akril.html
+Content Type: text/html
+
+Uri: https://msiding.vercel.app/alta-profil
+File Name: C:\Downloaded Web Sites\msiding.vercel.app\alta-profil.html
+Content Type: text/html
+
+Uri: https://msiding.vercel.app/alukobond
+File Name: C:\Downloaded Web Sites\msiding.vercel.app\alukobond.html
+Content Type: text/html
+
+Uri: https://msiding.vercel.app/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\msiding.vercel.app\apple-touch-icon.png
+Content Type: image/png
+
+Uri: https://msiding.vercel.app/assets/css/style.css
+File Name: C:\Downloaded Web Sites\msiding.vercel.app\assets\css\style.css
+Content Type: text/css
+
+Uri: https://msiding.vercel.app/assets/fonts/UniNeueHeavy.woff
+File Name: C:\Downloaded Web Sites\msiding.vercel.app\assets\fonts\UniNeueHeavy.woff
+Content Type: font/woff
+
+Uri: https://msiding.vercel.app/assets/fonts/UniNeueHeavy.woff2
+File Name: C:\Downloaded Web Sites\msiding.vercel.app\assets\fonts\UniNeueHeavy.woff2
+Content Type: font/woff2
+
+Uri: https://msiding.vercel.app/assets/fonts/UniNeueRegular.woff
+File Name: C:\Downloaded Web Sites\msiding.vercel.app\assets\fonts\UniNeueRegular.woff
+Content Type: font/woff
+
+Uri: https://msiding.vercel.app/assets/fonts/UniNeueRegular.woff2
+File Name: C:\Downloaded Web Sites\msiding.vercel.app\assets\fonts\UniNeueRegular.woff2
+Content Type: font/woff2
+
+Uri: https://msiding.vercel.app/assets/images/способы оплаты.png
+File Name: C:\Downloaded Web Sites\msiding.vercel.app\assets\images\способы оплаты.png
+Content Type: image/png
+
+Uri: https://msiding.vercel.app/assets/images/icons/address.png
+File Name: C:\Downloaded Web Sites\msiding.vercel.app\assets\images\icons\address.png
+Content Type: image/png
+
+Uri: https://msiding.vercel.app/assets/images/icons/alert 1.png
+File Name: C:\Downloaded Web Sites\msiding.vercel.app\assets\images\icons\alert 1.png
+Content Type: image/png
+
+Uri: https://msiding.vercel.app/assets/images/icons/burger.png
+File Name: C:\Downloaded Web Sites\msiding.vercel.app\assets\images\icons\burger.png
+Content Type: image/png
+
+Uri: https://msiding.vercel.app/assets/images/icons/calc.png
+File Name: C:\Downloaded Web Sites\msiding.vercel.app\assets\images\icons\calc.png
+Content Type: image/png
+
+Uri: https://msiding.vercel.app/assets/images/icons/call.png
+File Name: C:\Downloaded Web Sites\msiding.vercel.app\assets\images\icons\call.png
+Content Type: image/png
+
+Uri: https://msiding.vercel.app/assets/images/icons/drop_arrow.png
+File Name: C:\Downloaded Web Sites\msiding.vercel.app\assets\images\icons\drop_arrow.png
+Content Type: image/png
+
+Uri: https://msiding.vercel.app/assets/images/icons/email.png
+File Name: C:\Downloaded Web Sites\msiding.vercel.app\assets\images\icons\email.png
+Content Type: image/png
+
+Uri: https://msiding.vercel.app/assets/images/icons/stars.png
+File Name: C:\Downloaded Web Sites\msiding.vercel.app\assets\images\icons\stars.png
+Content Type: image/png
+
+Uri: https://msiding.vercel.app/assets/images/icons/tapBlack.png
+File Name: C:\Downloaded Web Sites\msiding.vercel.app\assets\images\icons\tapBlack.png
+Content Type: image/png
+
+Uri: https://msiding.vercel.app/assets/images/icons/tapGold.png
+File Name: C:\Downloaded Web Sites\msiding.vercel.app\assets\images\icons\tapGold.png
+Content Type: image/png
+
+Uri: https://msiding.vercel.app/assets/images/icons/vk.png
+File Name: C:\Downloaded Web Sites\msiding.vercel.app\assets\images\icons\vk.png
+Content Type: image/png
+
+Uri: https://msiding.vercel.app/assets/images/icons/warning.png
+File Name: C:\Downloaded Web Sites\msiding.vercel.app\assets\images\icons\warning.png
+Content Type: image/png
+
+Uri: https://msiding.vercel.app/assets/images/icons/whats_black.png
+File Name: C:\Downloaded Web Sites\msiding.vercel.app\assets\images\icons\whats_black.png
+Content Type: image/png
+
+Uri: https://msiding.vercel.app/assets/images/image.svg
+File Name: C:\Downloaded Web Sites\msiding.vercel.app\assets\images\image.svg
+Content Type: image/svg+xml
+
+Uri: https://msiding.vercel.app/assets/images/katalog/01004362a002acef9776439847e8a0af.jpeg
+File Name: C:\Downloaded Web Sites\msiding.vercel.app\assets\images\katalog\01004362a002acef9776439847e8a0af.jpeg
+Content Type: image/jpeg
+
+Uri: https://msiding.vercel.app/assets/images/katalog/0e01b848e9e1a0df0f819654cc0e9baa.jpeg
+File Name: C:\Downloaded Web Sites\msiding.vercel.app\assets\images\katalog\0e01b848e9e1a0df0f819654cc0e9baa.jpeg
+Content Type: image/jpeg
+
+Uri: https://msiding.vercel.app/assets/images/katalog/15d742d9cdbe7b0688d8b0027fb76f43.jpeg
+File Name: C:\Downloaded Web Sites\msiding.vercel.app\assets\images\katalog\15d742d9cdbe7b0688d8b0027fb76f43.jpeg
+Content Type: image/jpeg
+
+Uri: https://msiding.vercel.app/assets/images/katalog/1633834499_121-p-otdelka-doma-saidingom-pod-kirpich-snaruzh-129.jpg
+File Name: C:\Downloaded Web Sites\msiding.vercel.app\assets\images\katalog\1633834499_121-p-otdelka-doma-saidingom-pod-kirpich-snaruzh-129.jpg
+Content Type: image/jpeg
+
+Uri: https://msiding.vercel.app/assets/images/katalog/185_original.jpg
+File Name: C:\Downloaded Web Sites\msiding.vercel.app\assets\images\katalog\185_original.jpg
+Content Type: image/jpeg
+
+Uri: https://msiding.vercel.app/assets/images/katalog/2356d25f4fecfa97f754806c5fc455bc.jpeg
+File Name: C:\Downloaded Web Sites\msiding.vercel.app\assets\images\katalog\2356d25f4fecfa97f754806c5fc455bc.jpeg
+Content Type: image/jpeg
+
+Uri: https://msiding.vercel.app/assets/images/katalog/24e9298de9267c73c63864b9e720fc75.jpeg
+File Name: C:\Downloaded Web Sites\msiding.vercel.app\assets\images\katalog\24e9298de9267c73c63864b9e720fc75.jpeg
+Content Type: image/jpeg
+
+Uri: https://msiding.vercel.app/assets/images/katalog/273_original.jpg
+File Name: C:\Downloaded Web Sites\msiding.vercel.app\assets\images\katalog\273_original.jpg
+Content Type: image/jpeg
+
+Uri: https://msiding.vercel.app/assets/images/katalog/3d-derevo-matovoe.jpg
+File Name: C:\Downloaded Web Sites\msiding.vercel.app\assets\images\katalog\3d-derevo-matovoe.jpg
+Content Type: image/jpeg
+
+Uri: https://msiding.vercel.app/assets/images/katalog/5456a13bd1706625c8ca26ca14db04f8.jpeg
+File Name: C:\Downloaded Web Sites\msiding.vercel.app\assets\images\katalog\5456a13bd1706625c8ca26ca14db04f8.jpeg
+Content Type: image/jpeg
+
+Uri: https://msiding.vercel.app/assets/images/katalog/5665ff2c42c32504b4dea325d818a308.jpeg
+File Name: C:\Downloaded Web Sites\msiding.vercel.app\assets\images\katalog\5665ff2c42c32504b4dea325d818a308.jpeg
+Content Type: image/jpeg
+
+Uri: https://msiding.vercel.app/assets/images/katalog/606e3e7df7e63159d24c4fcb8f3530cd.png
+File Name: C:\Downloaded Web Sites\msiding.vercel.app\assets\images\katalog\606e3e7df7e63159d24c4fcb8f3530cd.png
+Content Type: image/png
+
+Uri: https://msiding.vercel.app/assets/images/katalog/630b4602999c2cee45ad3282e8d08fdd.jpeg
+File Name: C:\Downloaded Web Sites\msiding.vercel.app\assets\images\katalog\630b4602999c2cee45ad3282e8d08fdd.jpeg
+Content Type: image/jpeg
+
+Uri: https://msiding.vercel.app/assets/images/katalog/773_original.webp
+File Name: C:\Downloaded Web Sites\msiding.vercel.app\assets\images\katalog\773_original.webp
+Content Type: image/webp
+
+Uri: https://msiding.vercel.app/assets/images/katalog/807e955f48b281441778961e27e50cbf.jpeg
+File Name: C:\Downloaded Web Sites\msiding.vercel.app\assets\images\katalog\807e955f48b281441778961e27e50cbf.jpeg
+Content Type: image/jpeg
+
+Uri: https://msiding.vercel.app/assets/images/katalog/8b4de19116ed62fe0562182bb87ee8f7.jpeg
+File Name: C:\Downloaded Web Sites\msiding.vercel.app\assets\images\katalog\8b4de19116ed62fe0562182bb87ee8f7.jpeg
+Content Type: image/jpeg
+
+Uri: https://msiding.vercel.app/assets/images/katalog/9571003268b62d496a5a39aeebf6e3d0.jpeg
+File Name: C:\Downloaded Web Sites\msiding.vercel.app\assets\images\katalog\9571003268b62d496a5a39aeebf6e3d0.jpeg
+Content Type: image/jpeg
+
+Uri: https://msiding.vercel.app/assets/images/katalog/965_original.jpg
+File Name: C:\Downloaded Web Sites\msiding.vercel.app\assets\images\katalog\965_original.jpg
+Content Type: image/jpeg
+
+Uri: https://msiding.vercel.app/assets/images/katalog/9eq0s8ys0f101nj3q2g502kwjxnsaydk.png
+File Name: C:\Downloaded Web Sites\msiding.vercel.app\assets\images\katalog\9eq0s8ys0f101nj3q2g502kwjxnsaydk.png
+Content Type: image/png
+
+Uri: https://msiding.vercel.app/assets/images/katalog/a7b15afcced921143522cb5ce40cdd1a.jpg
+File Name: C:\Downloaded Web Sites\msiding.vercel.app\assets\images\katalog\a7b15afcced921143522cb5ce40cdd1a.jpg
+Content Type: image/jpeg
+
+Uri: https://msiding.vercel.app/assets/images/katalog/ae4d78485b13e2565765070de42771b5.jpeg
+File Name: C:\Downloaded Web Sites\msiding.vercel.app\assets\images\katalog\ae4d78485b13e2565765070de42771b5.jpeg
+Content Type: image/jpeg
+
+Uri: https://msiding.vercel.app/assets/images/katalog/b2a14c20c7ee10f7b7caa480cc8c0cfb.jpeg
+File Name: C:\Downloaded Web Sites\msiding.vercel.app\assets\images\katalog\b2a14c20c7ee10f7b7caa480cc8c0cfb.jpeg
+Content Type: image/jpeg
+
+Uri: https://msiding.vercel.app/assets/images/katalog/blok-haos-3a.jpeg
+File Name: C:\Downloaded Web Sites\msiding.vercel.app\assets\images\katalog\blok-haos-3a.jpeg
+Content Type: image/jpeg
+
+Uri: https://msiding.vercel.app/assets/images/katalog/blok-haus-16.jpg
+File Name: C:\Downloaded Web Sites\msiding.vercel.app\assets\images\katalog\blok-haus-16.jpg
+Content Type: image/jpeg
+
+Uri: https://msiding.vercel.app/assets/images/katalog/cokol1.jpg
+File Name: C:\Downloaded Web Sites\msiding.vercel.app\assets\images\katalog\cokol1.jpg
+Content Type: image/jpeg
+
+Uri: https://msiding.vercel.app/assets/images/katalog/company.jpg
+File Name: C:\Downloaded Web Sites\msiding.vercel.app\assets\images\katalog\company.jpg
+Content Type: image/jpeg
+
+Uri: https://msiding.vercel.app/assets/images/katalog/content_11.jpg
+File Name: C:\Downloaded Web Sites\msiding.vercel.app\assets\images\katalog\content_11.jpg
+Content Type: image/jpeg
+
+Uri: https://msiding.vercel.app/assets/images/katalog/dogovor-1.jpg
+File Name: C:\Downloaded Web Sites\msiding.vercel.app\assets\images\katalog\dogovor-1.jpg
+Content Type: image/jpeg
+
+Uri: https://msiding.vercel.app/assets/images/katalog/dogovor-2.jpg
+File Name: C:\Downloaded Web Sites\msiding.vercel.app\assets\images\katalog\dogovor-2.jpg
+Content Type: image/jpeg
+
+Uri: https://msiding.vercel.app/assets/images/katalog/dogovor-3.jpg
+File Name: C:\Downloaded Web Sites\msiding.vercel.app\assets\images\katalog\dogovor-3.jpg
+Content Type: image/jpeg
+
+Uri: https://msiding.vercel.app/assets/images/katalog/dogovor.jpg
+File Name: C:\Downloaded Web Sites\msiding.vercel.app\assets\images\katalog\dogovor.jpg
+Content Type: image/jpeg
+
+Uri: https://msiding.vercel.app/assets/images/katalog/dostavka.jpg
+File Name: C:\Downloaded Web Sites\msiding.vercel.app\assets\images\katalog\dostavka.jpg
+Content Type: image/jpeg
+
+Uri: https://msiding.vercel.app/assets/images/katalog/f3ac46a15c04a94cd073a0327057cac2.jpg
+File Name: C:\Downloaded Web Sites\msiding.vercel.app\assets\images\katalog\f3ac46a15c04a94cd073a0327057cac2.jpg
+Content Type: image/jpeg
+
+Uri: https://msiding.vercel.app/assets/images/katalog/Fasadnye-paneli-Alta-Profil-Kamen-Belyy.jpg
+File Name: C:\Downloaded Web Sites\msiding.vercel.app\assets\images\katalog\Fasadnye-paneli-Alta-Profil-Kamen-Belyy.jpg
+Content Type: image/jpeg
+
+Uri: https://msiding.vercel.app/assets/images/katalog/fasadnye_paneli_kollektsiya_burg_tsvet_lnyanoy.jpg
+File Name: C:\Downloaded Web Sites\msiding.vercel.app\assets\images\katalog\fasadnye_paneli_kollektsiya_burg_tsvet_lnyanoy.jpg
+Content Type: image/jpeg
+
+Uri: https://msiding.vercel.app/assets/images/katalog/fb296fb158abe77969d5c4ef30c8159b.jpg
+File Name: C:\Downloaded Web Sites\msiding.vercel.app\assets\images\katalog\fb296fb158abe77969d5c4ef30c8159b.jpg
+Content Type: image/jpeg
+
+Uri: https://msiding.vercel.app/assets/images/katalog/fe40766104a6b3dfb81ccfc3db34d47b.jpeg
+File Name: C:\Downloaded Web Sites\msiding.vercel.app\assets\images\katalog\fe40766104a6b3dfb81ccfc3db34d47b.jpeg
+Content Type: image/jpeg
+
+Uri: https://msiding.vercel.app/assets/images/katalog/garantiya.jpg
+File Name: C:\Downloaded Web Sites\msiding.vercel.app\assets\images\katalog\garantiya.jpg
+Content Type: image/jpeg
+
+Uri: https://msiding.vercel.app/assets/images/katalog/gena.jpeg
+File Name: C:\Downloaded Web Sites\msiding.vercel.app\assets\images\katalog\gena.jpeg
+Content Type: image/jpeg
+
+Uri: https://msiding.vercel.app/assets/images/katalog/igor.jpeg
+File Name: C:\Downloaded Web Sites\msiding.vercel.app\assets\images\katalog\igor.jpeg
+Content Type: image/jpeg
+
+Uri: https://msiding.vercel.app/assets/images/katalog/kim.jpeg
+File Name: C:\Downloaded Web Sites\msiding.vercel.app\assets\images\katalog\kim.jpeg
+Content Type: image/jpeg
+
+Uri: https://msiding.vercel.app/assets/images/katalog/kirpichrizhskij5-1280x846.jpg
+File Name: C:\Downloaded Web Sites\msiding.vercel.app\assets\images\katalog\kirpichrizhskij5-1280x846.jpg
+Content Type: image/jpeg
+
+Uri: https://msiding.vercel.app/assets/images/katalog/logo2.jpg
+File Name: C:\Downloaded Web Sites\msiding.vercel.app\assets\images\katalog\logo2.jpg
+Content Type: image/jpeg
+
+Uri: https://msiding.vercel.app/assets/images/katalog/manager.jpeg
+File Name: C:\Downloaded Web Sites\msiding.vercel.app\assets\images\katalog\manager.jpeg
+Content Type: image/jpeg
+
+Uri: https://msiding.vercel.app/assets/images/katalog/metall1.jpg
+File Name: C:\Downloaded Web Sites\msiding.vercel.app\assets\images\katalog\metall1.jpg
+Content Type: image/jpeg
+
+Uri: https://msiding.vercel.app/assets/images/katalog/nagrada.png
+File Name: C:\Downloaded Web Sites\msiding.vercel.app\assets\images\katalog\nagrada.png
+Content Type: image/png
+
+Uri: https://msiding.vercel.app/assets/images/katalog/None__e830dcae34152d81f0cb0a2a3f0b97df.jpg
+File Name: C:\Downloaded Web Sites\msiding.vercel.app\assets\images\katalog\None__e830dcae34152d81f0cb0a2a3f0b97df.jpg
+Content Type: image/jpeg
+
+Uri: https://msiding.vercel.app/assets/images/katalog/otzyv-1.jpg
+File Name: C:\Downloaded Web Sites\msiding.vercel.app\assets\images\katalog\otzyv-1.jpg
+Content Type: image/jpeg
+
+Uri: https://msiding.vercel.app/assets/images/katalog/otzyv-10.jpg
+File Name: C:\Downloaded Web Sites\msiding.vercel.app\assets\images\katalog\otzyv-10.jpg
+Content Type: image/jpeg
+
+Uri: https://msiding.vercel.app/assets/images/katalog/otzyv-2.jpg
+File Name: C:\Downloaded Web Sites\msiding.vercel.app\assets\images\katalog\otzyv-2.jpg
+Content Type: image/jpeg
+
+Uri: https://msiding.vercel.app/assets/images/katalog/otzyv-3.jpg
+File Name: C:\Downloaded Web Sites\msiding.vercel.app\assets\images\katalog\otzyv-3.jpg
+Content Type: image/jpeg
+
+Uri: https://msiding.vercel.app/assets/images/katalog/otzyv-4.jpg
+File Name: C:\Downloaded Web Sites\msiding.vercel.app\assets\images\katalog\otzyv-4.jpg
+Content Type: image/jpeg
+
+Uri: https://msiding.vercel.app/assets/images/katalog/otzyv-5.jpg
+File Name: C:\Downloaded Web Sites\msiding.vercel.app\assets\images\katalog\otzyv-5.jpg
+Content Type: image/jpeg
+
+Uri: https://msiding.vercel.app/assets/images/katalog/otzyv-6.jpg
+File Name: C:\Downloaded Web Sites\msiding.vercel.app\assets\images\katalog\otzyv-6.jpg
+Content Type: image/jpeg
+
+Uri: https://msiding.vercel.app/assets/images/katalog/otzyv-7.jpg
+File Name: C:\Downloaded Web Sites\msiding.vercel.app\assets\images\katalog\otzyv-7.jpg
+Content Type: image/jpeg
+
+Uri: https://msiding.vercel.app/assets/images/katalog/otzyv-8.jpg
+File Name: C:\Downloaded Web Sites\msiding.vercel.app\assets\images\katalog\otzyv-8.jpg
+Content Type: image/jpeg
+
+Uri: https://msiding.vercel.app/assets/images/katalog/otzyv-9.jpg
+File Name: C:\Downloaded Web Sites\msiding.vercel.app\assets\images\katalog\otzyv-9.jpg
+Content Type: image/jpeg
+
+Uri: https://msiding.vercel.app/assets/images/katalog/owner.jpeg
+File Name: C:\Downloaded Web Sites\msiding.vercel.app\assets\images\katalog\owner.jpeg
+Content Type: image/jpeg
+
+Uri: https://msiding.vercel.app/assets/images/katalog/portfolio-1.jpg
+File Name: C:\Downloaded Web Sites\msiding.vercel.app\assets\images\katalog\portfolio-1.jpg
+Content Type: image/jpeg
+
+Uri: https://msiding.vercel.app/assets/images/katalog/portfolio-2.jpg
+File Name: C:\Downloaded Web Sites\msiding.vercel.app\assets\images\katalog\portfolio-2.jpg
+Content Type: image/jpeg
+
+Uri: https://msiding.vercel.app/assets/images/katalog/portfolio-3.jpg
+File Name: C:\Downloaded Web Sites\msiding.vercel.app\assets\images\katalog\portfolio-3.jpg
+Content Type: image/jpeg
+
+Uri: https://msiding.vercel.app/assets/images/katalog/portfolio-4.jpg
+File Name: C:\Downloaded Web Sites\msiding.vercel.app\assets\images\katalog\portfolio-4.jpg
+Content Type: image/jpeg
+
+Uri: https://msiding.vercel.app/assets/images/katalog/portfolio-5.jpg
+File Name: C:\Downloaded Web Sites\msiding.vercel.app\assets\images\katalog\portfolio-5.jpg
+Content Type: image/jpeg
+
+Uri: https://msiding.vercel.app/assets/images/katalog/portfolio-6.jpg
+File Name: C:\Downloaded Web Sites\msiding.vercel.app\assets\images\katalog\portfolio-6.jpg
+Content Type: image/jpeg
+
+Uri: https://msiding.vercel.app/assets/images/katalog/portfolio-7.jpg
+File Name: C:\Downloaded Web Sites\msiding.vercel.app\assets\images\katalog\portfolio-7.jpg
+Content Type: image/jpeg
+
+Uri: https://msiding.vercel.app/assets/images/katalog/portfolio-8.jpg
+File Name: C:\Downloaded Web Sites\msiding.vercel.app\assets\images\katalog\portfolio-8.jpg
+Content Type: image/jpeg
+
+Uri: https://msiding.vercel.app/assets/images/katalog/portfolio-9.jpg
+File Name: C:\Downloaded Web Sites\msiding.vercel.app\assets\images\katalog\portfolio-9.jpg
+Content Type: image/jpeg
+
+Uri: https://msiding.vercel.app/assets/images/katalog/portfolio.jpg
+File Name: C:\Downloaded Web Sites\msiding.vercel.app\assets\images\katalog\portfolio.jpg
+Content Type: image/jpeg
+
+Uri: https://msiding.vercel.app/assets/images/katalog/rassrochka.jpg
+File Name: C:\Downloaded Web Sites\msiding.vercel.app\assets\images\katalog\rassrochka.jpg
+Content Type: image/jpeg
+
+Uri: https://msiding.vercel.app/assets/images/katalog/royal-stone-3_85bcf6c108b635c78fd07dae991e1e56.jpg
+File Name: C:\Downloaded Web Sites\msiding.vercel.app\assets\images\katalog\royal-stone-3_85bcf6c108b635c78fd07dae991e1e56.jpg
+Content Type: image/jpeg
+
+Uri: https://msiding.vercel.app/assets/images/katalog/sayding-docke-elochka-blok-haus_646-2-80814380.jpg
+File Name: C:\Downloaded Web Sites\msiding.vercel.app\assets\images\katalog\sayding-docke-elochka-blok-haus_646-2-80814380.jpg
+Content Type: image/jpeg
+
+Uri: https://msiding.vercel.app/assets/images/katalog/scale_1200.jpeg
+File Name: C:\Downloaded Web Sites\msiding.vercel.app\assets\images\katalog\scale_1200.jpeg
+Content Type: image/jpeg
+
+Uri: https://msiding.vercel.app/assets/images/katalog/seva.jpeg
+File Name: C:\Downloaded Web Sites\msiding.vercel.app\assets\images\katalog\seva.jpeg
+Content Type: image/jpeg
+
+Uri: https://msiding.vercel.app/assets/images/katalog/skidka1.jpg
+File Name: C:\Downloaded Web Sites\msiding.vercel.app\assets\images\katalog\skidka1.jpg
+Content Type: image/jpeg
+
+Uri: https://msiding.vercel.app/assets/images/katalog/skidka2.jpg
+File Name: C:\Downloaded Web Sites\msiding.vercel.app\assets\images\katalog\skidka2.jpg
+Content Type: image/jpeg
+
+Uri: https://msiding.vercel.app/assets/images/katalog/skidka3.jpg
+File Name: C:\Downloaded Web Sites\msiding.vercel.app\assets\images\katalog\skidka3.jpg
+Content Type: image/jpeg
+
+Uri: https://msiding.vercel.app/assets/images/katalog/skidki.jpg
+File Name: C:\Downloaded Web Sites\msiding.vercel.app\assets\images\katalog\skidki.jpg
+Content Type: image/jpeg
+
+Uri: https://msiding.vercel.app/assets/images/katalog/termopanel-s-klinkernoy-plitkoy-roben-manus-banda-carbon-prays-352605-na-www.nizhniy-novgorod.build2last.ru.jpg
+File Name: C:\Downloaded Web Sites\msiding.vercel.app\assets\images\katalog\termopanel-s-klinkernoy-plitkoy-roben-manus-banda-carbon-prays-352605-na-www.nizhniy-novgorod.build2last.ru.jpg
+Content Type: image/jpeg
+
+Uri: https://msiding.vercel.app/assets/images/katalog/uteplenie-fasada-cena-v-moskve-minvata-1200x800.jpg
+File Name: C:\Downloaded Web Sites\msiding.vercel.app\assets\images\katalog\uteplenie-fasada-cena-v-moskve-minvata-1200x800.jpg
+Content Type: image/jpeg
+
+Uri: https://msiding.vercel.app/assets/images/katalog/vakansii.jpg
+File Name: C:\Downloaded Web Sites\msiding.vercel.app\assets\images\katalog\vakansii.jpg
+Content Type: image/jpeg
+
+Uri: https://msiding.vercel.app/assets/images/katalog/vertikalnyy.jpg
+File Name: C:\Downloaded Web Sites\msiding.vercel.app\assets\images\katalog\vertikalnyy.jpg
+Content Type: image/jpeg
+
+Uri: https://msiding.vercel.app/assets/images/katalog/vinil1.jpg
+File Name: C:\Downloaded Web Sites\msiding.vercel.app\assets\images\katalog\vinil1.jpg
+Content Type: image/jpeg
+
+Uri: https://msiding.vercel.app/assets/images/katalog/WzNG4VJM6BA.jpg
+File Name: C:\Downloaded Web Sites\msiding.vercel.app\assets\images\katalog\WzNG4VJM6BA.jpg
+Content Type: image/jpeg
+
+Uri: https://msiding.vercel.app/assets/js/main.js
+File Name: C:\Downloaded Web Sites\msiding.vercel.app\assets\js\main.js
+Content Type: application/javascript
+
+Uri: https://msiding.vercel.app/assets/js/metrika.js
+File Name: C:\Downloaded Web Sites\msiding.vercel.app\assets\js\metrika.js
+Content Type: application/javascript
+
+Uri: https://msiding.vercel.app/blokhaus
+File Name: C:\Downloaded Web Sites\msiding.vercel.app\blokhaus.html
+Content Type: text/html
+
+Uri: https://msiding.vercel.app/derevo
+File Name: C:\Downloaded Web Sites\msiding.vercel.app\derevo.html
+Content Type: text/html
+
+Uri: https://msiding.vercel.app/docke
+File Name: C:\Downloaded Web Sites\msiding.vercel.app\docke.html
+Content Type: text/html
+
+Uri: https://msiding.vercel.app/dostavka
+File Name: C:\Downloaded Web Sites\msiding.vercel.app\dostavka.html
+Content Type: text/html
+
+Uri: https://msiding.vercel.app/eurobrus
+File Name: C:\Downloaded Web Sites\msiding.vercel.app\eurobrus.html
+Content Type: text/html
+
+Uri: https://msiding.vercel.app/fasad
+File Name: C:\Downloaded Web Sites\msiding.vercel.app\fasad.html
+Content Type: text/html
+
+Uri: https://msiding.vercel.app/favicon.ico
+File Name: C:\Downloaded Web Sites\msiding.vercel.app\favicon.ico
+Content Type: image/vnd.microsoft.icon
+
+Uri: https://msiding.vercel.app/fibrocement
+File Name: C:\Downloaded Web Sites\msiding.vercel.app\fibrocement.html
+Content Type: text/html
+
+Uri: https://msiding.vercel.app/garantii
+File Name: C:\Downloaded Web Sites\msiding.vercel.app\garantii.html
+Content Type: text/html
+
+Uri: https://msiding.vercel.app/hauberk
+File Name: C:\Downloaded Web Sites\msiding.vercel.app\hauberk.html
+Content Type: text/html
+
+Uri: https://msiding.vercel.app/imitation-brus
+File Name: C:\Downloaded Web Sites\msiding.vercel.app\imitation-brus.html
+Content Type: text/html
+
+Uri: https://msiding.vercel.app/kamen
+File Name: C:\Downloaded Web Sites\msiding.vercel.app\kamen.html
+Content Type: text/html
+
+Uri: https://msiding.vercel.app/kirpich
+File Name: C:\Downloaded Web Sites\msiding.vercel.app\kirpich.html
+Content Type: text/html
+
+Uri: https://msiding.vercel.app/klinker
+File Name: C:\Downloaded Web Sites\msiding.vercel.app\klinker.html
+Content Type: text/html
+
+Uri: https://msiding.vercel.app/korabel-doska
+File Name: C:\Downloaded Web Sites\msiding.vercel.app\korabel-doska.html
+Content Type: text/html
+
+Uri: https://msiding.vercel.app/manifest.webmanifest
+File Name: C:\Downloaded Web Sites\msiding.vercel.app\manifest.webmanifest
+Content Type: 
+
+Uri: https://msiding.vercel.app/metall
+File Name: C:\Downloaded Web Sites\msiding.vercel.app\metall.html
+Content Type: text/html
+
+Uri: https://msiding.vercel.app/metall-brevno
+File Name: C:\Downloaded Web Sites\msiding.vercel.app\metall-brevno.html
+Content Type: text/html
+
+Uri: https://msiding.vercel.app/minvata
+File Name: C:\Downloaded Web Sites\msiding.vercel.app\minvata.html
+Content Type: text/html
+
+Uri: https://msiding.vercel.app/natur-kamen
+File Name: C:\Downloaded Web Sites\msiding.vercel.app\natur-kamen.html
+Content Type: text/html
+
+Uri: https://msiding.vercel.app/o-kompanii
+File Name: C:\Downloaded Web Sites\msiding.vercel.app\o-kompanii.html
+Content Type: text/html
+
+Uri: https://msiding.vercel.app/oplata-i-vozvrat
+File Name: C:\Downloaded Web Sites\msiding.vercel.app\oplata-i-vozvrat.html
+Content Type: text/html
+
+Uri: https://msiding.vercel.app/plitka
+File Name: C:\Downloaded Web Sites\msiding.vercel.app\plitka.html
+Content Type: text/html
+
+Uri: https://msiding.vercel.app/portfolio
+File Name: C:\Downloaded Web Sites\msiding.vercel.app\portfolio.html
+Content Type: text/html
+
+Uri: https://msiding.vercel.app/prav-info.pdf
+File Name: C:\Downloaded Web Sites\msiding.vercel.app\prav-info.pdf
+Content Type: application/pdf
+
+Uri: https://msiding.vercel.app/price
+File Name: C:\Downloaded Web Sites\msiding.vercel.app\price.html
+Content Type: text/html
+
+Uri: https://msiding.vercel.app/privacy.docx
+File Name: C:\Downloaded Web Sites\msiding.vercel.app\privacy.docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: https://msiding.vercel.app/profnastil
+File Name: C:\Downloaded Web Sites\msiding.vercel.app\profnastil.html
+Content Type: text/html
+
+Uri: https://msiding.vercel.app/rassrochka
+File Name: C:\Downloaded Web Sites\msiding.vercel.app\rassrochka.html
+Content Type: text/html
+
+Uri: https://msiding.vercel.app/sitemap.html
+File Name: C:\Downloaded Web Sites\msiding.vercel.app\sitemap.html
+Content Type: text/html
+
+Uri: https://msiding.vercel.app/skidki
+File Name: C:\Downloaded Web Sites\msiding.vercel.app\skidki.html
+Content Type: text/html
+
+Uri: https://msiding.vercel.app/termopanel
+File Name: C:\Downloaded Web Sites\msiding.vercel.app\termopanel.html
+Content Type: text/html
+
+Uri: https://msiding.vercel.app/tsokol
+File Name: C:\Downloaded Web Sites\msiding.vercel.app\tsokol.html
+Content Type: text/html
+
+Uri: https://msiding.vercel.app/tsokol-fasad
+File Name: C:\Downloaded Web Sites\msiding.vercel.app\tsokol-fasad.html
+Content Type: text/html
+
+Uri: https://msiding.vercel.app/vakansii
+File Name: C:\Downloaded Web Sites\msiding.vercel.app\vakansii.html
+Content Type: text/html
+
+Uri: https://msiding.vercel.app/vertical
+File Name: C:\Downloaded Web Sites\msiding.vercel.app\vertical.html
+Content Type: text/html
+
+Uri: https://msiding.vercel.app/vinil
+File Name: C:\Downloaded Web Sites\msiding.vercel.app\vinil.html
+Content Type: text/html
+
